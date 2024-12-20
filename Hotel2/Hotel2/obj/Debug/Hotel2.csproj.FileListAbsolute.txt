@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Hotel2\Hotel2\bin\Debug\Hotel2.exe.config
+C:\Users\user\source\repos\Hotel2\Hotel2\bin\Debug\Hotel2.exe
+C:\Users\user\source\repos\Hotel2\Hotel2\bin\Debug\Hotel2.pdb
+C:\Users\user\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.Form1.resources
+C:\Users\user\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.Properties.Resources.resources
+C:\Users\user\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.exe
+C:\Users\user\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.pdb
+C:\Users\user\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.Form2.resources
+C:\Users\user\source\repos\Hotel2\Hotel2\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.csproj.Up2Date
